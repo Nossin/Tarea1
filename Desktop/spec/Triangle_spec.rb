@@ -1,0 +1,2 @@
+class TriangleError < RuntimeError
+end
